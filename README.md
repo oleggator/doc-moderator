@@ -14,3 +14,7 @@ optional arguments:
   -o OUTPUT        found words output file
   -l DISTANCE      editor distance
 ```
+
+## Authors
+- Kirill Syomin
+- Oleg Utkin
