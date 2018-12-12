@@ -1,2 +1,2 @@
 # Document moderator
-Finds words in txt/docx document
+Searches for words in the selected document with selected Levenshtein distance to words in the selected dictionary
