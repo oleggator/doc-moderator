@@ -55,7 +55,7 @@ if __name__ == '__main__':
                         required=True,
                         action='store',
                         dest='article',
-                        help='article (txt or docx)')
+                        help='article (docx)')
     parser.add_argument('-o',
                         required=True,
                         action='store',
