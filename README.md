@@ -19,8 +19,8 @@ find words in document
 optional arguments:
   -h, --help       show this help message and exit
   -d TARGET_WORDS  dictionary (txt)
-  -a ARTICLE       article (txt or docx)
-  -o OUTPUT        found words output file
+  -a ARTICLE       article (docx)
+  -o OUTPUT        article with highlighted words
   -l DISTANCE      editor distance
 ```
 

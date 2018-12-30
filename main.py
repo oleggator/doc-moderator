@@ -60,7 +60,7 @@ if __name__ == '__main__':
                         required=True,
                         action='store',
                         dest='output',
-                        help='found words output file')
+                        help='article with highlighted words')
     parser.add_argument('-l',
                         required=True,
                         action='store',
